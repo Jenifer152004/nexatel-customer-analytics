@@ -1,0 +1,5 @@
+{
+  "name": "NexaTel Customer Analytics",
+  "description": "A high-performance customer segmentation and churn prediction platform for NexaTel Analytics Pvt. Ltd. It features RFM analysis, K-Means clustering visualization, and a Logistic Regression-based churn risk predictor.",
+  "requestFramePermissions": []
+}
